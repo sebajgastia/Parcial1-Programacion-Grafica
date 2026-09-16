@@ -26,9 +26,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Expansion: 1.23
     - _FadedPower: 1
     - _FresnelPower: 1
+    - _Fuerza_Rebote: 0.5
+    - _Fuerzarebote: 0.6
+    - _GOAT: 0.3
     - __dirty: 0
+    - _veolciadoscilacion: 2
     m_Colors:
-    - _Color: {r: 1, g: 0.92855203, b: 0, a: 0}
+    - _Color: {r: 0.96189463, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
