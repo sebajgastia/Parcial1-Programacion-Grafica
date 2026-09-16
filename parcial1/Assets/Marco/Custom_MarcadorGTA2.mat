@@ -33,7 +33,7 @@ Material:
     - _Fuerzarebote: 0.6
     - _GOAT: 0.3
     - __dirty: 0
-    - _veolciadoscilacion: 2
+    - _veolciadoscilacion: 0.5
     m_Colors:
     - _Color: {r: 0.96189463, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
