@@ -38,9 +38,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Lerp: 0
+    - _Lerp: 0.3
     - _Profundidad: 0.02
-    - _Suelo_Tiling: 1
+    - _Suelo_Tiling: 0.3
     - __dirty: 0
     m_Colors: []
   m_BuildTextureStacks: []
